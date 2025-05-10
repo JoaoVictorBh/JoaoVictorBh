@@ -1,4 +1,4 @@
- <h2 align="left">Hi 👋! My name is João Victor, I am 19 years old, and I am studying Computer Engineering at CEUB.</h2>
+ <h2 align="left">Hi 👋! My name is João Victor, I am 19 years old, and I am studying Computer Engineering da CEUB.</h2>
 
 ###
 
