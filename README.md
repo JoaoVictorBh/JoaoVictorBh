@@ -38,7 +38,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JoaoVictorBh/JoaoVictorBh/output/snake.svg" alt="Snake animation" />
-
-###
+ 
   
